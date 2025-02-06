@@ -13,4 +13,4 @@ This project builds a multi-label classification model to predict:
 4. **Model Testing**: Predicted attributes for random test images.
 
 ## Model Link
-[Download the model](https://drive.google.com/file/d/1SP7csoTEkZls5AIw6Sjy6CXuZUHvYeSy/view?usp=sharing)
+[Download the model](https://drive.google.com/drive/folders/1EnbFkoD1PNaEnRJG7ndMklRYarZ4VZV3?usp=sharing)
