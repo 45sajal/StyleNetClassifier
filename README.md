@@ -11,6 +11,7 @@ This project implements a **multi-label classification model** to predict key at
 2. **EDA (Exploratory Data Analysis)**: Visualized product distributions using bar and pie charts.
 3. **Model Building**: Used MobileNetV2 with transfer learning for multi-output classification.
 4. **Model Testing**: Predicted attributes for random test images.
+5. **Making a Streamlit App**: Run the app and upload images to test the model.
 
 ## Running the Streamlit App
 
